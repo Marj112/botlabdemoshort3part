@@ -1,13 +1,14 @@
 # Developing Intelligent Bots with LUIS 
 
 This hands-on lab guides you through creating an intelligent bot from end-to-end using the Microsoft Bot Framework and Microsoft's Language Understanding Intelligent Service (LUIS).  It is a shortened version of the Microsoft AI Developer lab.
-> This lab was modified from this [LearnAI Boot Camp Training Materials](https://github.com/Azure/LearnAI-Bootcamp).
+> This lab was modified from  [LearnAI Boot Camp Training Materials](https://github.com/Azure/LearnAI-Bootcamp).
 
 ## Objectives
 In this workshop, you will:
 - Create a simple bot in the Azure portal and test it online.
 - Build a LUIS application.
 - Build the final bot using LUIS and Azure Search (Azure search has already been set up for you).
+
 
 While there is a focus on LUIS and Azure bot framework, you will also leverage the following technologies:
 - Visual Studio

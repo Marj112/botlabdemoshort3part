@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

@@ -1,0 +1,57 @@
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Bot Application.dll.config
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Bot Application.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Bot Application.pdb
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Autofac.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Chronic.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Azure.Search.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Bot.Builder.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Bot.Connector.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Rest.ClientRuntime.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Spatial.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Newtonsoft.Json.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.Net.Http.Formatting.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.Web.Http.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.Web.Http.WebHost.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Autofac.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Azure.Search.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Bot.Builder.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Bot.Connector.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Rest.ClientRuntime.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.Spatial.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\Newtonsoft.Json.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.Net.Http.Formatting.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.Web.Http.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\System.Web.Http.WebHost.xml
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\de\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\es\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\fr\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\it\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\ja\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\ko\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\ru\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Finished-PictureBot_LUIS.csproj.CoreCompileInputs.cache
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Finished-PictureBot_LUIS.csproj.CopyComplete
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Bot Application.dll
+C:\LearnAI-Bootcamp\lab02.2-building_bots\resources\code\Finished-PictureBot_LUIS\Finished-PictureBot_LUIS\obj\Release\Bot Application.pdb
