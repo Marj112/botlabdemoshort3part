@@ -2,8 +2,8 @@
 Estimated Time: 20-30 minutes
 
 ### Lab 3.1: Download the bot
-In the [resources](./resources) folder naviage to:
- **Finished-PictureBot_LUIS**: Here  is the finished PictureBot.sln that includes additions for Regex, LUIS and Azure Search. Open the solution (sln) in visual studio.
+In the [resources](./resources) folder navigate to:
+ **Finished-PictureBot_LUIS**: Here  is the finished PictureBot.sln that includes additions for Regex, LUIS and Azure Search. Open the solution (sln) in visual studio you will need to log in with your Azure credentials.
  
  You can hit F5 to confirm it builds correctly.
 
@@ -20,14 +20,8 @@ The code will launch in your default web browser in a URL similar to http://loca
 
 ![Bot Project URL](./resources/assets/BotProjectUrl.jpg) 
 
-### Lab 3.2: Update with your bot keys
-First we need to grab a few keys. Go to the Web App Bot you just created (in the portal). Under App Service Settings->Application Settings->App settings, grab the BotId, MicrosoftAppId, and MicrosoftAppPassword. You will need them in a moment.
 
-Return to your PictureBot in Visual Studio. In the Web.config file, fill in the the blanks under `appSettings` with the BotId, MicrosoftAppId, and MicrosoftAppPassword. Save the file. 
-
-> Getting an error that directs you to your MicrosoftAppPassword? Because it's in XML, if your key contains "&", "<", ">", "'", or '"', you will need to replace those symbols with their respective [escape facilities](https://en.wikipedia.org/wiki/XML#Characters_and_escaping): "\&amp;", "\&lt;", "\&gt;", "\&apos;", "\&quot;". 
-
-### Lab 3.2: Update with your LUIS keys
+### Lab 3.1: Update with your LUIS keys
 Next, update with the LUIS App ID and LUIS key under RootDialog.  If you can't find these values, go back to http://luis.ai.  Click on your application, and go to the "Publish App" page. You can get the LUIS App ID and LUIS key from the Endpoint URL (HINT: The LUIS App ID will have hyphens in it, and the LUIS key will not). You will need to put the following line of code directly above the `[Serializable]` with your LUIS App ID and LUIS key:
 
 ```csharp
@@ -40,7 +34,7 @@ namespace PictureBot.Dialogs
 ...
 ```
 
-### Lab 3.3: Update with the search keys
+### Lab 3.2: Update with the search keys
 Provide our bot with the relevant information to connect to an Azure Search index.  The best place to store connection information is in the configuration file.  
 
 Open Web.config and in the appSettings section, add the following:
@@ -62,6 +56,14 @@ Set the value for the SearchDialogsServiceKey to be the key for this service.  T
 Make sure your project is still running (hit F5 again if you stopped to look at the project properties) and launch the Bot Framework Emulator.  (If you just installed it, it may not be indexed to show up in a search on your local machine, so remember that it installs to c:\Users\your-username\AppData\Local\botframework\app-3.5.27\botframework-emulator.exe.)  Ensure that the Bot URL matches the port number that your code launched in above, and has api/messages appended to the end.  You should be able to converse with the bot.  
 
 ![Bot Emulator](./resources/assets/BotEmulator.png) 
+
+### Lab 3.2: Update with your bot keys
+Lastly we need to grab your bot keys. Go to the Web App Bot you just created (in the portal). Under App Service Settings->Application Settings->App settings, grab the BotId, MicrosoftAppId, and MicrosoftAppPassword. You will need them in a moment.
+
+Return to your PictureBot in Visual Studio. In the Web.config file, fill in the the blanks under `appSettings` with the BotId, MicrosoftAppId, and MicrosoftAppPassword. Save the file. 
+
+> Getting an error that directs you to your MicrosoftAppPassword? Because it's in XML, if your key contains "&", "<", ">", "'", or '"', you will need to replace those symbols with their respective [escape facilities](https://en.wikipedia.org/wiki/XML#Characters_and_escaping): "\&amp;", "\&lt;", "\&gt;", "\&apos;", "\&quot;". 
+
 
 ### Lab 3.4: Publish your bot
 In the Solution Explorer, right-click on your Bot Application project and select "Publish".  This will launch a wizard to help you publish your bot to Azure.  
