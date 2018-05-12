@@ -24,9 +24,9 @@ The end solution will be built using the Bot Framework and LUIS to allow easy, t
 ## Navigating the Labs
 
 This workshop has been broken down into 3 sections:
-- [1_Test_Simple_Bot](./1_Test_Simple_Bot.md): Here you will build a simple bot using Regular Expressions and Scorable Groups
-- [2_LUIS](./2_LUIS.md): We'll configure our bot for Azure Search and connect it to the Azure Search service from the previous lab
-- [3_Publish_and_Register](./3_Publish_and_Register.md): We'll finish by publishing and registering our bot.
+- [1_Test_Simple_Bot](./1_Test_Simple_Bot.md): Here you will create a simple LUIS bot in the Azure portal.
+- [2_LUIS](./2_LUIS.md): We'll build a LUIS application for targeting querying.
+- [3_Publish_and_Register](./3_Publish_and_Register.md): We'll configure our bot and finish by publishing and registering our bot.
 
 
 ### Continue to[1_Test_Simple_Bot](./1_Test_Simple_Bot.md)
