@@ -10,7 +10,7 @@ using Finished_PictureBot_LUIS.Models;
 
 namespace Finished_PictureBot_LUIS.Dialogs
 {
-    [LuisModel("1d334cb8-72b6-4119-8776-e175ed549198 ", "86427421b9bf403e897a368c18bd15f5")]
+    [LuisModel("LUIS APP ID", "LUIS KEY")]
     [Serializable]
     public class RootDialog : DispatchDialog<object>
     {
